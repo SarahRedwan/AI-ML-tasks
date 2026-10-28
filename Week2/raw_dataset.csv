@@ -1,0 +1,26 @@
+id,category,question,answer
+1,Civil Registration,How can I obtain a birth certificate?,"Contact the relevant civil registration office in your area to ask about birth registration, required documents, fees, and application procedures."
+2,Identification,How can I apply for a national identification card?,"Check the official national identification service for registration requirements, accepted documents, appointment procedures, and application status information."
+3,Passport,How can I apply for an Ethiopian passport?,"Consult the official Ethiopian immigration and citizenship service for passport application requirements, supporting documents, fees, appointments, and processing updates."
+4,Tax,How can I obtain a tax identification number?,Contact the relevant tax authority or use its official digital services to learn about tax identification registration and required documentation.
+5,Business Registration,How can I register a new business?,"Consult the relevant government business registration service for business name registration, licensing requirements, documents, and applicable fees."
+6,Education,Where can I find information about public universities?,"Check the official Ministry of Education or individual university websites for admissions announcements, entry requirements, programs, and academic calendars."
+7,Healthcare,How can I find a public health center?,Contact your local health office or consult official regional health bureau information to locate public health centers and learn about available services.
+8,Utilities,How can I report a water supply problem?,"Contact your local water utility or municipal service office to report interruptions, request assistance, and obtain information about service restoration."
+9,Electricity,How can I report a power outage?,Contact the relevant electricity utility through its official customer service channels to report an outage and request updates.
+10,Municipal Services,How can I report a waste collection problem?,Contact your local municipality or sanitation office to report missed waste collection and ask about local waste disposal procedures.
+11,Transport,Where can I find public transport information?,"Consult the relevant city transport authority or official transport service channels for routes, schedules, fares, and service announcements."
+12,Land Services,How can I obtain land ownership information?,"Contact the relevant local land administration office to ask about property records, landholding documents, verification procedures, and applicable fees."
+13,Civil Registration,How can I obtain a marriage certificate?,"Contact the appropriate civil registration office to confirm marriage registration procedures, supporting documents, and certificate collection requirements."
+14,Passport,How can I check my passport application status?,"Use the official immigration service's application tracking facility if available, or contact the service using its published customer support channels."
+15,Tax,Where can I get information about tax payments?,"Consult the relevant tax authority for tax payment methods, deadlines, taxpayer obligations, and official payment channels."
+16,Business Registration,How can I renew a business license?,Contact the office responsible for your business license or use the official business service portal to check renewal requirements and deadlines.
+17,Employment,Where can I find government job vacancies?,"Check official ministry, public institution, and government recruitment announcements for vacancy details, eligibility requirements, and application deadlines."
+18,Social Services,Where can I ask about social support programs?,"Contact the relevant local administration or social affairs office to learn about available support programs, eligibility, and application procedures."
+19,Agriculture,Where can farmers obtain agricultural advice?,"Contact your local agricultural development office or extension service for information about farming practices, crop production, and agricultural support."
+20,Justice,Where can I find information about court services?,"Consult the relevant court or official justice administration website for court locations, filing procedures, schedules, and public service information."
+21,Identification,What should I do if my identification details are incorrect?,Contact the official identification service to ask about correcting personal information and which supporting documents are required.
+22,Utilities,How do I complain about a water bill?,Contact your local water utility's customer service office and provide the bill details to ask about billing review and complaint procedures.
+23,General,,
+24,General,N/A,   
+25,General,What is a public service?,A public service
